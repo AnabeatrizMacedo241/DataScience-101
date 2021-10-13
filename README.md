@@ -1,5 +1,5 @@
 # DataScience-101
-## Guias básico para aprender Ciência de dados.
+## Guias básicos para aprender Ciência de dados.
 
 Tópicos, por enquanto, publicados:
 - Pandas
