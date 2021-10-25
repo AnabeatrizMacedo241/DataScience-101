@@ -9,3 +9,8 @@ Tópicos, por enquanto, publicados:
 - Web Scraping
 - Estatística em Python
 - Probabilidade em Python
+
+Futuros tópicos<ul>
+	<li> [ ] Introdução ao SQL</li>
+	<li> [ ] Introdução a Machine Learning</li>
+</ul>
