@@ -1,3 +1,16 @@
 # DataScience-101
-![yellow-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
- 
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
+
+## Guias básicos para aprender Ciência de dados.
+
+Tópicos, por enquanto, publicados:
+- Pandas
+- Gráficos: Matplotlib e Seaborn
+- Web Scraping
+- Estatística em Python
+- Probabilidade em Python
+
+Futuros tópicos<ul>
+	<li> [ ] Introdução ao SQL</li>
+	<li> [ ] Introdução a Machine Learning</li>
+</ul>
