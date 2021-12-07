@@ -10,8 +10,8 @@ Tópicos, por enquanto, publicados:
 - Estatística em Python
 - Probabilidade em Python
 - Regex
+- SQL 
 
 Futuros tópicos<ul>
-	<li> [ ] Introdução ao SQL</li>
 	<li> [ ] Introdução a Machine Learning</li>
 </ul>
