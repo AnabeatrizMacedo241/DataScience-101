@@ -9,6 +9,7 @@ Tópicos, por enquanto, publicados:
 - Web Scraping
 - Estatística em Python
 - Probabilidade em Python
+- Regex
 
 Futuros tópicos<ul>
 	<li> [ ] Introdução ao SQL</li>
